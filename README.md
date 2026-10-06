@@ -12,7 +12,7 @@
 
 버전별 변경 사항은 각 릴리스 설명에서 확인할 수 있습니다.
 
-> **Assets**에 첨부된 패치 파일을 받아 주세요. `Source code (zip)`과 `Source code (tar.gz)`는 GitHub가 자동으로 제공하는 소스 코드 묶음입니다.
+> **Assets**에 첨부된 `KoreanPatch.exe` 패치 파일을 받아 주세요. `Source code (zip)`과 `Source code (tar.gz)`는 GitHub가 자동으로 제공하는 소스 코드 묶음입니다.
 
 ## 지원 환경
 
